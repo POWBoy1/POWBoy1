@@ -65,3 +65,7 @@ https://powboy1.xyz
 <p align="center">
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=powboy1&theme=tokyo-night"/>
 </p>
+
+<p align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:203a43,100:0f2027&height=120&section=footer"/>
+</p>
