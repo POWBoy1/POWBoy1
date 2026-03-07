@@ -19,17 +19,6 @@ https://github.com/POWBoy1/GamesHub
 
 https://powboy1.xyz
 
-# 🎧 Spotify Status
-
-<p align="center">
-<img src="https://spotify-github-profile.vercel.app/api/view?uid=31be4upepsxcw4ekmnsztxlnyeae&cover_image=true&theme=novatorem&show_offline=false"/>
-</p>
-
-# 💬 Discord Status
-
-<p align="center">
-<img src="https://lanyard.cnrad.dev/api/808824325687214110"/>
-</p>
 
 # 🌎 Connect With Me
 
@@ -68,29 +57,11 @@ https://powboy1.xyz
 # 📊 GitHub Stats
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=powboy1&show_icons=true&theme=tokyonight"/>
-</p>
-
-<p align="center">
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=powboy1&theme=tokyonight"/>
-</p>
-
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=powboy1&layout=compact&theme=tokyonight"/>
 </p>
 
 # 📈 Activity Graph
 
 <p align="center">
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=powboy1&theme=tokyo-night"/>
-</p>
-
-# 🐍 Contribution Snake
-
-<p align="center">
-<img src="https://raw.githubusercontent.com/POWBoy1/POWBoy1/output/github-contribution-grid-snake.svg"/>
-</p>
-
-<p align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:203a43,100:0f2027&height=120&section=footer"/>
 </p>
