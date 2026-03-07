@@ -1,26 +1,96 @@
-<h1 align="center">Hi 👋, I'm POWBoy1</h1>
-<h3 align="center">A Young Coder just coding some websites.</h3>
+<h1 align="center">
+<img src="https://readme-typing-svg.herokuapp.com?size=35&duration=4000&color=36BCF7&center=true&vCenter=true&width=700&lines=Hi+👋,+I'm+POWBoy1;Young+Developer;I+Build+Websites;Coding+Cool+Projects">
+</h1>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=powboy1&label=Profile%20views&color=0e75b6&style=flat" alt="powboy1" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=powboy1" alt="powboy1" /></a> </p>
-
-- I’m currently working on [GamesHub](https://github.com/POWBoy1/GamesHub)
-
-- All of my projects are available at [https://powboy1.xyz](https://powboy1.xyz)
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://instagram.com/pow_boy1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="pow_boy1" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/pow_boy1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="pow_boy1" height="30" width="40" /></a>
-<a href="https://discord.gg/gaceZWay7B" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="gaceZWay7B" height="30" width="40" /></a>
+<p align="center">
+<img src="https://komarev.com/ghpvc/?username=powboy1&label=Profile%20views&color=0e75b6&style=flat"/>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://mariadb.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/mariadb/mariadb-icon.svg" alt="mariadb" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> </a> </p>
+<p align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=POWBoy1&fontSize=50&fontColor=ffffff&animation=fadeIn"/>
+</p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=powboy1&show_icons=true&locale=en&layout=compact" alt="powboy1" /></p>
+# 🚀 Current Project
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=powboy1&show_icons=true&locale=en" alt="powboy1" /></p>
+**GamesHub**
+https://github.com/POWBoy1/GamesHub
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=powboy1&" alt="powboy1" /></p>
+# 🌐 Website
+
+https://powboy1.xyz
+
+# 🎧 Spotify Status
+
+<p align="center">
+<img src="https://spotify-github-profile.vercel.app/api/view?uid=31be4upepsxcw4ekmnsztxlnyeae&cover_image=true&theme=novatorem&show_offline=false"/>
+</p>
+
+# 💬 Discord Status
+
+<p align="center">
+<img src="https://lanyard.cnrad.dev/api/808824325687214110"/>
+</p>
+
+# 🌎 Connect With Me
+
+<p align="center">
+
+<a href="https://instagram.com/pow_boy1">
+<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" height="30"/>
+</a>
+
+<a href="https://www.youtube.com/c/pow_boy1">
+<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" height="30"/>
+</a>
+
+<a href="https://discord.gg/gaceZWay7B">
+<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" height="30"/>
+</a>
+
+</p>
+
+# 🛠 Languages and Tools
+
+<p align="center">
+
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" width="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" width="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="40"/>
+<img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="40"/>
+<img src="https://www.vectorlogo.zone/logos/mariadb/mariadb-icon.svg" width="40"/>
+<img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" width="40"/>
+
+</p>
+
+# 📊 GitHub Stats
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=powboy1&show_icons=true&theme=tokyonight"/>
+</p>
+
+<p align="center">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=powboy1&theme=tokyonight"/>
+</p>
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=powboy1&layout=compact&theme=tokyonight"/>
+</p>
+
+# 📈 Activity Graph
+
+<p align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=powboy1&theme=tokyo-night"/>
+</p>
+
+# 🐍 Contribution Snake
+
+<p align="center">
+<img src="https://raw.githubusercontent.com/POWBoy1/POWBoy1/output/github-contribution-grid-snake.svg"/>
+</p>
+
+<p align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:203a43,100:0f2027&height=120&section=footer"/>
+</p>
