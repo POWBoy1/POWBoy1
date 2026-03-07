@@ -1,13 +1,13 @@
+<p align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=POWBoy1&fontSize=50&fontColor=ffffff&animation=fadeIn"/>
+</p>
+
 <h1 align="center">
 <img src="https://readme-typing-svg.herokuapp.com?size=35&duration=4000&color=36BCF7&center=true&vCenter=true&width=700&lines=Hi+👋,+I'm+POWBoy1;Young+Developer;I+Build+Websites;Coding+Cool+Projects">
 </h1>
 
 <p align="center">
 <img src="https://komarev.com/ghpvc/?username=powboy1&label=Profile%20views&color=0e75b6&style=flat"/>
-</p>
-
-<p align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=POWBoy1&fontSize=50&fontColor=ffffff&animation=fadeIn"/>
 </p>
 
 # 🚀 Current Project
